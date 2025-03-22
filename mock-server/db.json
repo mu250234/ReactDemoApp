@@ -1,0 +1,104 @@
+{
+    "users": [
+        {
+            "name":"ABC",
+            "department": "Billing",
+            "location": "London",
+            "landline": 1233,
+            "mobile": 7777777
+        },
+        {
+            "name":"John",
+            "department": "Accounts",
+            "location": "London",
+            "landline": 1233,
+            "mobile": 7777777
+        },
+        {
+            "name":"Wick",
+            "department": "Billing",
+            "location": "London",
+            "landline": 1233,
+            "mobile": 7777777
+        },
+        {
+            "name":"John",
+            "department": "Billing",
+            "location": "London",
+            "landline": 1233,
+            "mobile": 7777777
+        },
+        {
+            "name":"Wick",
+            "department": "Billing",
+            "location": "London",
+            "landline": 1233,
+            "mobile": 7777777
+        },
+        {
+            "name":"Test",
+            "department": "Billing",
+            "location": "London",
+            "landline": 1233,
+            "mobile": 7777777
+        },
+        {
+            "name":"Data",
+            "department": "Billing",
+            "location": "London",
+            "landline": 1233,
+            "mobile": 7777777
+        },
+        {
+            "name":"Test",
+            "department": "Billing",
+            "location": "London",
+            "landline": 1233,
+            "mobile": 7777777
+        },
+        {
+            "name":"ABC",
+            "department": "Billing",
+            "location": "London",
+            "landline": 1233,
+            "mobile": 7777777
+        },
+        {
+            "name":"ABC",
+            "department": "Billing",
+            "location": "London",
+            "landline": 1233,
+            "mobile": 7777777
+        },
+        {
+            "name":"ABC",
+            "department": "Billing",
+            "location": "London",
+            "landline": 1233,
+            "mobile": 7777777
+        },
+        {
+            "name":"ABC",
+            "department": "Billing",
+            "location": "London",
+            "landline": 1233,
+            "mobile": 7777777
+        }
+        
+      ],
+    "departments": [
+        {
+            "id": 1,
+            "body": "Great post!",
+            "postId": 1
+        },
+        {
+            "id": 2,
+            "body": "Informative!",
+            "postId": 2
+        }
+    ],
+    "profile": {
+        "name": "Amit Kumar"
+    }
+}
